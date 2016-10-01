@@ -6,7 +6,7 @@
 
 if [ "$1" = "source" ];then
 	# Place the token in the token file
-	TOKEN=$(cat token)
+	TOKEN=$(286360049:AAHgfsiB58uvrgqKoIZldHInG90VPVhxy0k)
 	# Set INLINE to 1 in order to receive inline queries.
 	# To enable this option in your bot, send the /setinline command to @BotFather.
 	INLINE=0
